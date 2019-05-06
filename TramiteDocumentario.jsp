@@ -1,6 +1,6 @@
 <%--
 Copyright Grupo LPA. 2011. All Rights Reserved.
-version 0.1 - 18/07/2011 commentary
+version 0.1 - 18/07/2011 commentary issue
 --%>
 
 <%@ page contentType="text/html; charset=UTF-8" %>
